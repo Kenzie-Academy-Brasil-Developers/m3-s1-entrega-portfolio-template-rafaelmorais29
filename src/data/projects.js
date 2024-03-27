@@ -1,18 +1,18 @@
 export const projects = [
   {
     name: "Projeto 1",
-    description: "Atividade Props Card Pessoas",
+    description: "RafiloWay",
   },
   {
     name: "Projeto 2",
-    description: "Atividade Praticando Children",
+    description: "KenzieHub",
   },
   {
     name: "Projeto 3",
-    description: "Descrição do projeto",
+    description: "Kenzieflix",
   },
   {
     name: "Projeto 4",
-    description: "Descrição do projeto",
+    description: "Blog da Kenzie",
   },
 ];

@@ -7,7 +7,7 @@ export const Header = () => {
     <>    
     < header className={styles.header}>
       <div>
-        <h3 className="titleHeader">Portifólio</h3>
+        <h3 className="titleHeader">Portfólio</h3>
       </div>
       <div className={styles.menu}>
         <h5>Sobre</h5>
