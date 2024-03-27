@@ -1,0 +1,15 @@
+.techcard{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 15.9375rem;
+    height: 4.375rem;
+    border-radius: 25px;
+    border: 1px solid white;
+    gap: 2rem;
+    padding: 2rem;
+
+}
+.techName{
+    font-weight: 800;
+}
